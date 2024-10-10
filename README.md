@@ -14,5 +14,5 @@ This project contains two Python scripts, `encrypt.py` and `decrypt.py`, which d
 2. Use `decrypt.py` to restore the encrypted files.
 
 ## Sample Files
-You can test the scripts with the provided sample files.
+You can test the scripts with the provided sample files: `file1`, `file2`, and `file3`.
 
